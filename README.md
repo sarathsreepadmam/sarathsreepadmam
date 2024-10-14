@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarathsreepadmam
-- 👀 I’m interested in web development
+- 👀 I’m interested in software development
 - 🌱 I’m currently pursuing computer science engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
